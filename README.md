@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Python Programming**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **dipeshsiwakoti112@gmail.com**
 
 - ⚡ Fun fact **I play games very often.**
