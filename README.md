@@ -10,11 +10,11 @@
 
 - 📖 I’m currently studying **Bsc(Hons)Computing**
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m currently learning **JAVA Programming**
 
 - 📫 How to reach me **dipeshsiwakoti112@gmail.com**
 
-- ⚡ Fun fact **I play games very often.**
+<!-- - ⚡ Fun fact **I play games very often.** -->
 
 ## 🚀 Languages and Tools:
 
