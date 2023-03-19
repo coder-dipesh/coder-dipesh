@@ -1,8 +1,12 @@
 
 
-<a href="https://www.facebook.com/dipeshsiwakoti112"><img width="100%" height="auto" src="coder-dipesh.jpg" /></a>
+<a href="https://www.facebook.com/dipeshsiwakoti112"><img width="100%" height="auto" src="https://res.cloudinary.com/de9neeomp/image/upload/v1679211771/Github_Cover_tsaijg.png" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dipesh Siwakoti from Nepal.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dipesh Siwakoti.</h1>
+<center>
+    <h3>As a tech enthusiast from Katmandu,Nepal.</h3>
+     <h3>I am deeply interested in Web Technology and Graphics Designing.</h3>
+</center>
 <h3 align="center">I ❤ Coding.</h3>
 
 
