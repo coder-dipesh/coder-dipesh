@@ -3,18 +3,16 @@
 <a href="https://www.facebook.com/dipeshsiwakoti112"><img width="100%" height="auto" src="https://res.cloudinary.com/de9neeomp/image/upload/v1679211771/Github_Cover_tsaijg.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dipesh Siwakoti.</h1>
-<center>
-    <h3>As a tech enthusiast from Katmandu,Nepal.</h3>
-     <h3>I am deeply interested in Web Technology and Graphics Designing.</h3>
-</center>
 <h3 align="center">I ❤ Coding.</h3>
+<h3 align="center">As a tech enthusiast from Katmandu,Nepal.</h3>
+<h3 align="center">I am deeply interested in Web Technology and Graphics Designing.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 📖 I’m currently studying **Bsc(Hons)Computing**
 
-- 🌱 I’m currently learning **JAVA Programming**, **Django** and **JS**.
+- 🌱 I’m currently learning **MERN**, **Django** and **JS**.
 
 - 📫 How to reach me **dipeshsiwakoti112@gmail.com**
 
@@ -29,6 +27,10 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a> <img src="https://img.icons8.com/?size=48&id=74402&format=png"></a>
+    <a style="background-color:#ffffff"><img src="https://img.icons8.com/color/48/000000/express-js.png"></a>    
+    <a> <img src="https://img.icons8.com/?size=48&id=bzf0DqjXFHIW&format=png"> </a>
+    <a> <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"></a>
 </p>
 
 <br/>
@@ -51,10 +53,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/coder-dipesh/github-readme-activity-graph"><img alt="coder-dipesh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-dipesh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
