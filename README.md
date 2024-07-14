@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dipesh Siwakoti.</h1>
 <h3 align="center">I ❤ Coding.</h3>
-<h3 align="center">As a tech enthusiast from Katmandu,Nepal.</h3>
-<h3 align="center">I am deeply interested in Web Technology and Graphics Designing.</h3>
+<h3 align="center">As a tech enthusiast from Kathmandu,Nepal.</h3>
+<h3 align="center">I am deeply interested in Web Technology and Graphic Designing.</h3>
 
 
 ## 🙋‍♂️ About Me
